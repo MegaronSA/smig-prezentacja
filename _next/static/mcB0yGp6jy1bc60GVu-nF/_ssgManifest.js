@@ -1,1 +1,0 @@
-self.__SSG_MANIFEST=new Set(["\u002Fprodukty\u002F[productName]","\u002Fartykuly\u002F[articleId]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
